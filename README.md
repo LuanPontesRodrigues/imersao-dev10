@@ -28,7 +28,7 @@ Como este é um projeto estático de front-end, você não precisa de um ambient
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <[URL_DO_SEU_REPOSITORIO](https://github.com/LuanPontesRodrigues/imersao-dev10/tree/main)>
+    git clone <(https://github.com/LuanPontesRodrigues/imersao-dev10/tree/main)>
     ```
 
 2.  **Abra o projeto:**
