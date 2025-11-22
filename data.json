@@ -1,0 +1,301 @@
+[
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset tipado de JavaScript que compila para JavaScript puro. Melhora a manutenibilidade e escalabilidade de grandes aplicações.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "tipagem estática"
+    ]
+  },
+  {
+    "nome": "Go",
+    "descricao": "Linguagem de programação compilada, desenvolvida pelo Google, focada em simplicidade, concorrência e desempenho.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "sistemas",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas que garante segurança de memória e velocidade. Amplamente usada em infraestrutura e WebAssembly.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "segurança de memória"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna, estaticamente tipada, que roda na JVM e é a linguagem preferida para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "backend",
+      "JVM"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo de JavaScript para construção de interfaces de usuário reativas e aplicações de página única (SPA).",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "javascript",
+      "interface de usuário"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador que transforma código declarativo em DOM manipulations altamente eficientes, eliminando a sobrecarga de frameworks em tempo de execução.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework de React que permite renderização do lado do servidor (SSR), geração de sites estáticos (SSG) e aplicações full-stack.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "fullstack",
+      "serveless",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional de código aberto conhecido por sua robustez e conformidade com padrões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "SQL",
+      "código aberto"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos. Oferece alta disponibilidade e escalabilidade horizontal.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Um armazenamento de estrutura de dados em memória, frequentemente usado como cache, broker de mensagens e banco de dados primário.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "cache",
+      "memória",
+      "estrutura de dados"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que permite desenvolver, enviar e executar aplicações dentro de contêineres, garantindo consistência entre ambientes.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "devops",
+      "containerização",
+      "ferramenta",
+      "virtualização"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema de código aberto para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "devops",
+      "cloud native",
+      "containerização"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar infraestrutura em nuvem usando código declarativo.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "devops",
+      "IaC",
+      "cloud computing",
+      "automação"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless da Amazon Web Services que executa código em resposta a eventos sem provisionamento de servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud computing",
+      "aws",
+      "funções"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, permitindo que o cliente solicite exatamente os dados de que precisa.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "protocolo de dados",
+      "backend",
+      "dados"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Framework de chamada de procedimento remoto (RPC) de código aberto e alto desempenho, usando HTTP/2 para transporte e Protocol Buffers.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "api",
+      "comunicação",
+      "backend",
+      "microserviços"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída que permite publicar, assinar, armazenar e processar fluxos de registros em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "mensageria",
+      "big data",
+      "backend"
+    ]
+  },
+  {
+    "nome": "RabbitMQ",
+    "descricao": "Software de broker de mensagens (Message Broker) amplamente utilizado para gerenciar filas de mensagens e desacoplar componentes de sistemas.",
+    "data_criacao": "2007",
+    "link": "https://www.rabbitmq.com/",
+    "tags": [
+      "mensageria",
+      "backend",
+      "arquitetura",
+      "broker"
+    ]
+  },
+  {
+    "nome": "FastAPI",
+    "descricao": "Framework web moderno e rápido para construir APIs em Python, baseado em tipagem padrão de Python e assíncrono.",
+    "data_criacao": "2018",
+    "link": "https://fastapi.tiangolo.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "api",
+      "assíncrono"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a criação de aplicações Spring autônomas e prontas para produção, minimizando a necessidade de configuração.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "microsserviços",
+      "JVM"
+    ]
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Toolkit de código aberto para monitoramento e alerta. Coleta métricas de alvos configurados em intervalos regulares, avaliando regras de alerta.",
+    "data_criacao": "2012",
+    "link": "https://prometheus.io/",
+    "tags": [
+      "monitoramento",
+      "devops",
+      "observabilidade",
+      "alertas"
+    ]
+  },
+  {
+    "nome": "Solidity",
+    "descricao": "Linguagem de programação orientada a contratos para implementação de lógica em blockchains como Ethereum e outras plataformas compatíveis com EVM.",
+    "data_criacao": "2014",
+    "link": "https://soliditylang.org/",
+    "tags": [
+      "blockchain",
+      "linguagem de programação",
+      "smart contracts",
+      "web3"
+    ]
+  },
+  {
+    "nome": "Dart",
+    "descricao": "Linguagem de programação otimizada para o cliente, rápida em todas as plataformas, usada primariamente pelo framework Flutter.",
+    "data_criacao": "2011",
+    "link": "https://dart.dev/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "frontend",
+      "web"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "SDK de UI do Google para construir aplicações nativas compiladas para mobile, web e desktop a partir de uma única base de código Dart.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "framework",
+      "mobile",
+      "frontend",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Um framework CSS utilitário que permite construir designs complexos rapidamente aplicando classes diretamente na marcação HTML.",
+    "data_criacao": "2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "css",
+      "framework",
+      "frontend",
+      "design system"
+    ]
+  }
+]
